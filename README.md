@@ -1,3 +1,6 @@
+# lwky only made ts bcs i needed mastery for pain 😭
+
+
 # haunted-castle-farm
 
 AFK farm for the Haunted Castle island in the Third Sea of Blox Fruits.
